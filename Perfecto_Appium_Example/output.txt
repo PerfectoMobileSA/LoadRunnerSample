@@ -1,0 +1,21 @@
+Virtual User Script started at: 2019-11-18 10:20:27 AM
+Starting action vuser_init.
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Starting action Actions.
+System.out: Run started                                                                                                                                                      Notify:
+System.err: Nov 18, 2019 10:20:38 AM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: OSS
+                                                                                                                                                      Error
+Actions.java(56): Notify: Transaction "Navigate to Google" started.
+Actions.java(58): Notify: Transaction "Navigate to Google" ended with a "Pass" status (Duration: 5.8578).
+Actions.java(60): Notify: Transaction "Search Perfecto" started.
+Actions.java(62): Notify: Transaction "Search Perfecto" ended with a "Pass" status (Duration: 5.9195).
+System.out: Run ended                                                                                                                                                      Notify:
+Ending action Actions.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.
